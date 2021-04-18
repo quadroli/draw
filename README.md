@@ -6,8 +6,8 @@ showcase of octagon drawn using OpenGL in C
 
 # How to run
 Ensure you have [GLFW](https://www.glfw.org/download.html) and a C compiler installed   
-then run ```make``` in root directory   
-then ```./oct```     
+Then run ```make``` in root directory   
+Then ```./oct```     
 ps: i am not sure of how to set up on windows, but should run  
 
 # Credit
