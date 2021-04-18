@@ -1,7 +1,5 @@
-# Draw
-showcase of shapes drawn via OpenGL
-
-just wanted to showcase this cool octagon :)
+# oct
+showcase of octagon drawn using OpenGL in C
 
 # How to run
 Ensure you have [GLFW](https://www.glfw.org/download.html) and a C compiler installed
