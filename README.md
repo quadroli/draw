@@ -6,4 +6,4 @@ Ensure you have [GLFW](https://www.glfw.org/download.html) and a C compiler inst
 then run make(mingw32-make for windows) in root directory
 
 # Credit
-@JoeyDeVries fro his wonderful tutorial
+@[JoeyDeVries](https://github.com/JoeyDeVries) for his [wonderful tutorial](https://learnopengl.com/)
